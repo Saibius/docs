@@ -14,6 +14,7 @@ https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed
 - **Instant Setup**: No configuration required - share files in seconds
 - **Directory Browsing**: Beautiful, intuitive web interface for directory navigation
 - **Smart IP Detection**: Automatically displays both localhost and LAN access URLs
+- **Cross-platform**: Linux, macOS, Windows
 
 ## Quick Start  
 
