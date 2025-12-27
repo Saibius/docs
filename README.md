@@ -101,6 +101,7 @@ Server also accessible at http://192.168.1.100:3200/
 
 # Make files available on your localhost network
 # Saibius binds to 0.0.0.0 by default.
+# You can restrict access by explicitly setting the host.
 ./saibius --file ./downloads --host 127.0.0.1 --port 8080
 
 # Share a single large video file
