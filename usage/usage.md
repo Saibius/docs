@@ -43,6 +43,27 @@ Saibius allows explicit port binding via the `--port` option.
 ./saibius --file ./share --port (Your-port-number-here)
 ```
 
+### Use Case 4 : Localhost-Only Access
+In scenarios where external network access must be strictly blocked,
+Saibius can be bound to the local loopback interface only.
+
+By explicitly setting the host to `127.0.0.1`, the shared files become accessible
+exclusively from the local machine.  
+
+```bash
+./saibius --file ./share --host 127.0.0.1
+```
+
+This prevents external port exposure and ensures that file access is limited
+to local processes and users.
+
+![Localhost-Only Access](../image/use-case/chap4.png)
+
+This approach is ideal for local testing, CI pipelines, and security-sensitive
+environments where network isolation is required.  
+
+### Use case 5 : 
+
 Saibius does not require global installation. 
 Download it when needed, use it, and remove it afterward.
 
