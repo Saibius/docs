@@ -22,7 +22,13 @@ making it accessible to other systems on the same network or via a reachable add
 
 No setup. No global install. No persistent services.  
 
-### Use Case 2 : 
+### Use Case 2 : Automatic Port Resolution
+Saibius automatically detects port conflicts and selects an available port
+without requiring user intervention.  
+
+![Automatic Port Resolution](../image/use-case/chap2-1.png)
+
+Port 3200 was in use, automatically using port 3201  
 
 Saibius does not require global installation. 
 Download it when needed, use it, and remove it afterward.
