@@ -16,6 +16,11 @@ https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed
 - **Smart IP Detection**: Automatically displays both localhost and LAN access URLs
 - **Cross-platform**: Linux, macOS, Windows
 
+Saibius has been tested across a wide range of Linux x86-x64 distributions,
+including Ubuntu LTS (20.04–24.04), Debian, AlmaLinux 8,
+SUSE Linux Enterprise 15, Fedora, Arch Linux, Kali Linux (Rolling),
+and Alpine Linux.  
+
 ## Quick Start  
 
 ### Installation
