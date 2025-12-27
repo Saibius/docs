@@ -30,17 +30,17 @@ Sign up, purchase the desired license, and download it from the [accounts](https
 
 Share a directory:
 ```bash
-saibius --file /path/to/directory
+./saibius --file /path/to/directory
 ```
 
 Share a single file:
 ```bash
-saibius --file /path/to/file.txt
+./saibius --file /path/to/file.txt
 ```
 
 Specify custom port and host:
 ```bash
-saibius --file /path/to/directory --port 8080 --host 0.0.0.0
+./saibius --file /path/to/directory --port 8080 --host 0.0.0.0
 ```
 
 ## Features
@@ -97,11 +97,11 @@ Server also accessible at http://192.168.1.100:3200/
 ./saibius --file ~/
 
 # Share a specific project
-.saibius --file ./my-project --port 9000
+./saibius --file ./my-project --port 9000
 
 # Make files available on your localhost network
 # Saibius binds to 0.0.0.0 by default.
-.saibius --file ./downloads --host 127.0.0.1 --port 8080
+./saibius --file ./downloads --host 127.0.0.1 --port 8080
 
 # Share a single large video file
 ./saibius --file ./movie.mp4
