@@ -30,6 +30,19 @@ without requiring user intervention.
 
 Port 3200 was in use, automatically using port 3201  
 
+This allows multiple instances of Saibius to run in parallel on the same system,
+making it ideal for CI pipelines, local testing, and internal distribution.
+
+### Use Case 3 : Explicit Port Binding
+For environments that require fixed network configurations,
+Saibius allows explicit port binding via the `--port` option.  
+
+![Explicit Port Binding](../image/use-case/chap3.png)
+
+```bash
+./saibius --file ./share --port (Your-port-number-here)
+```
+
 Saibius does not require global installation. 
 Download it when needed, use it, and remove it afterward.
 
