@@ -1,5 +1,5 @@
 End User License Agreement (EULA)
-Version: 1.0 Last Modified: November 24, 2025
+Version: 1.0 Last Modified: December 28, 2025
 
 This End User License Agreement (hereinafter referred to as "Agreement" or "Terms") is a legal agreement between Artsnoa.com (hereinafter referred to as the "Company") and the individual or legal entity (hereinafter referred to as the "User") who installs, copies, downloads, accesses, or uses the high-performance file exposure web server software (hereinafter referred to as "Saibius"), related documentation, interfaces, updates, and various services (hereinafter referred to as the "Software") provided by the Company.
 
