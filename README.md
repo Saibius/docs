@@ -46,7 +46,7 @@ Specify custom port and host:
 
 ### Performance Optimizations
 
-Saibius implements several cutting-edge performance optimizations:
+Saibius implements several performance optimizations:
 
 #### Zero-Copy Transfer
 - Larger files are streamed using optimized 64KB buffers
