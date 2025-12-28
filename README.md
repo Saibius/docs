@@ -164,18 +164,9 @@ Saibius implements robust error handling:
 - Path traversal protection
 - Detailed error messages with suggested solutions
 
-## Contributing
-
-Built with passion for efficient file sharing. Contributions welcome in areas of:
-
-- Performance optimizations
-- Additional platform support
-- UI/UX improvements
-- Documentation enhancements
-
 ### Downloading Releases
 
-Download pre-built binaries from the [Accounts page](https://saibius.com/accounts):
+Download binaries from the [Accounts page](https://saibius.com/accounts):
 
 - **Windows**: `Saibius.exe`
 - **Linux**: `Saibius`
