@@ -116,7 +116,7 @@ curl http://localhost:3200/filename.txt
 wget http://localhost:3200/filename.txt
 
 # Stream with range request (download first 1MB)
-curl -r 0-1048575 http://localhost:3200/largefile.zip
+curl -r 0-1048575 -o "largefile" http://localhost:3200/largefile.zip
 ```
 
 ## Technology Stack
