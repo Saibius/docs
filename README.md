@@ -49,7 +49,6 @@ Specify custom port and host:
 Saibius implements several cutting-edge performance optimizations:
 
 #### Zero-Copy Transfer
-- Files use `sendfile` for zero-copy kernel-space transfers
 - Larger files are streamed using optimized 64KB buffers
 - Minimizes memory usage and CPU overhead
 
