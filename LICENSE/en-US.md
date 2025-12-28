@@ -1,71 +1,70 @@
-End User License Agreement (EULA) Version: 1.0 | Last Modified: November 24, 2025
+End User License Agreement (EULA)
+Version: 1.0 Last Modified: November 24, 2025
 
-This End User License Agreement (hereinafter referred to as "this Agreement" or "Terms") is a legal agreement between Artsnoa.com (hereinafter referred to as the "Company") and the individual or legal entity (hereinafter referred to as the "User") that installs, copies, downloads, accesses, or uses the high-performance file serving web server software (hereinafter referred to as "Saibius"), along with its related documentation, interfaces, updates, and associated services (hereinafter collectively referred to as the "Software") provided by the Company.
+This End User License Agreement (hereinafter referred to as "Agreement" or "Terms") is a legal agreement between Artsnoa.com (hereinafter referred to as the "Company") and the individual or legal entity (hereinafter referred to as the "User") who installs, copies, downloads, accesses, or uses the high-performance file exposure web server software (hereinafter referred to as "Saibius"), related documentation, interfaces, updates, and various services (hereinafter referred to as the "Software") provided by the Company.
 
-By downloading, installing, copying, or using the "Software," the User agrees to be bound by all the terms and conditions of this Agreement. If the User does not agree to the terms of this Agreement, they must not install or use the "Software."
+By downloading, installing, copying, or using the "Software," the User agrees to all the terms of this Agreement. If you do not agree to the terms of this Agreement, you must not install or use the "Software."
 
 Article 1 (Grant of License)
+Scope of License: Subject to your compliance with this Agreement, the Company grants you a non-exclusive, non-transferable, non-sublicensable, revocable, limited license to use the "Software."
 
-Scope of License: Subject to the User’s compliance with this Agreement, the Company grants the User a non-exclusive, non-transferable, non-sublicensable, and revocable limited license to use the "Software."
+Intended Use: Users may install and run the "Software" only for legally permitted purposes and internal operational purposes explicitly permitted by the Company.
 
-Purpose of Use: The User may install and run the "Software" solely for legally permitted purposes and for internal operational purposes explicitly authorized by the Company.
+This "Internal Operation" shall be interpreted to encompass internal testing, development, and file sharing purposes of an individual or organization.
 
-Reservation of Rights: This Agreement grants only a license to use the "Software" and does not constitute a sale. Title, copyright, and all other intellectual property rights in and to the "Software" remain exclusively with the Company.
+Copying or transferring the "Software" for use on servers operated by an individual or organization constitutes "Internal Operation."
 
-Article 2 (Restrictions on Use) The User shall not, directly or through a third party, engage in any of the following acts:
+Reservation of Ownership: This Agreement grants only the right to use the "Software" and does not constitute a sale. Ownership, copyright, and other intellectual property rights in the "Software" belong solely to the Company.
 
-Copying and Distribution: Copying, distributing, transmitting, transferring, reselling, renting, leasing, or pledging the "Software" as security without the prior written consent of the Company.
+Article 2 (Restrictions on Use)
+Users shall not, directly or through a third party, perform any of the following acts:
 
-Modification and Adaptation: Modifying, translating, decompiling, disassembling, or reverse engineering the source code of the "Software," or creating derivative works based thereon (except to the extent expressly permitted by applicable law).
+Reproduction and Distribution: Copying, distributing, transmitting, assigning, reselling, leasing, or providing as collateral the "Software" without the Company's prior written consent.
 
-Prohibition on Service-based Offerings: Providing the "Software" to third parties in the form of hosting services, Software as a Service (SaaS), cloud services, or managed services (MSP) without a separate license agreement with the Company.
+Modification and Adaptation: Modifying, translating, decompiling, disassembling, or reverse engineering the source code of the "Software" or creating derivative works based on it. (However, this does not apply to the extent expressly permitted by applicable laws.)
 
-Circumvention of Security: Removing, bypassing, or neutralizing technical protection measures applied to the "Software" (e.g., license key validation, copy protection).
+Prohibition on Service-Based Provision: Providing the "Software" to third parties as a hosting service, Software as a Service (SaaS), cloud service, or Managed Service (MSP) without a separate license agreement from the Company.
 
-Disclosure of Benchmarks: Disclosing performance test (benchmark) results of the "Software" to a third party without the prior written consent of the Company.
+Security Disabling: Removing, bypassing, or disabling any technological protection measures (copy protection features) applied to the "Software."
 
 Article 3 (Updates and Maintenance)
+The Company may provide updates to the "Software" to improve performance, fix bugs, and provide security patches.
 
-The Company may provide updates for the purpose of performance improvement, bug fixes, security patches, etc.
+Updates may be provided automatically or manually according to the Company's policies. The Company is not responsible for any issues arising from the user's failure to apply the latest updates.
 
-Updates may be provided automatically or manually depending on the Company's policy, and the Company shall not be liable for any issues arising from the User's failure to apply the latest updates.
+This Agreement shall also apply to updated "Software."
 
-The terms of this Agreement shall apply equally to the updated "Software."
+Article 4 (Data Collection and Personal Information Protection)
+In principle, this "Software" does not collect personal information.
+However, personal information collected during the use of the company's services, such as downloads, payments, and inquiries through the website, will be processed in accordance with the company's privacy policy.
 
-Article 4 (Data Collection and Privacy)
+Article 5 (Disclaimer of Warranty)
+"AS IS" Provision: The "Software" is provided "AS IS" and "AS AVAILABLE," and the company makes no warranties, express or implied, including any implied warranties of merchantability, fitness for a particular purpose, or non-infringement of third party rights.
 
-The Company may collect non-personally identifiable technical information, such as the User’s IP address, device information, and software version information, for the purposes of quality improvement, license verification, and prevention of illegal copying.
-
-Any personal information provided by the User to the Company will be collected and managed in accordance with the Company’s 'Privacy Policy.' (Privacy Policy Link: https://saibius.com/privacy)
-
-Article 5 (Disclaimer of Warranties)
-
-"AS IS": THE "SOFTWARE" IS PROVIDED "AS IS" AND "AS AVAILABLE." THE COMPANY MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
-
-Integrity: The Company does not warrant that the "Software" will operate uninterrupted, be error-free, or that all defects will be corrected.
+Integrity: The company does not warrant that the "Software" will operate uninterrupted, be error-free, or that all defects will be corrected.
 
 Article 6 (Limitation of Liability)
+Damages: To the maximum extent permitted by applicable laws, the Company shall not be liable for any direct, indirect, incidental, special, or punitive damages (including loss of data, business interruption, or loss of profits) arising from the use or inability to use the "Software."
 
-Damages: To the maximum extent permitted by applicable law, the Company shall not be liable for any direct, indirect, incidental, special, or punitive damages (including, but not limited to, loss of data, business interruption, or loss of profits) arising out of the use of or inability to use the "Software."
+Limitation of Liability: In no event shall the Company's total liability exceed the amount actually paid by the User to the Company for the use of the "Software." If the "Software" is provided free of charge, the Company shall not be liable for any damages.
 
-Limitation Amount: In no event shall the Company's total liability exceed the amount actually paid by the User to the Company for the use of this "Software." If provided for free, the Company shall have no liability for indemnification.
-
-Article 7 (Termination)
-
+Article 7 (Termination of Agreement)
 If the User violates any provision of this Agreement, the Company may immediately terminate this Agreement and revoke the license.
 
-Upon termination of the Agreement, the User must immediately cease using the "Software" and permanently delete or destroy all copies (including backups) in their possession.
+Upon termination of this Agreement, the User shall immediately cease use of the "Software" and permanently delete or destroy all copies (including backups) in its possession.
 
 Article 8 (General Provisions)
-
 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the Republic of Korea.
 
-Jurisdiction: Any dispute arising between the Company and the User in connection with this Agreement shall be subject to the exclusive jurisdiction of the Suwon District Court as the court of first instance.
+Jurisdiction: In the event of a dispute between the Company and the User arising in connection with this Agreement, the Suwon District Court shall have exclusive jurisdiction over the first instance.
 
-Language: This Agreement has been prepared in the Korean language and translated into English for convenience. In the event of any conflict, discrepancy, or inconsistency between the Korean version and this English version, the Korean version shall prevail and govern.
+Severability: If any provision of this Agreement is legally invalid or unenforceable, the remaining provisions shall not be affected.
 
-Severability: If any provision of this Agreement is held to be legally invalid or unenforceable, it shall not affect the validity of the remaining provisions.
+Complete Agreement: This Agreement constitutes the entire agreement between the parties regarding the use of the "Software" and supersedes all prior agreements, oral or written.
 
-Entire Agreement: This Agreement constitutes the entire agreement between the parties regarding the use of the "Software" and supersedes all prior agreements, whether oral or written.
+Article 9 (Contact Information)
+For any inquiries regarding this Agreement, please contact us at the following address:
 
-Article 9 (Contact Information) If you have any questions regarding this Agreement, please contact us at: Artsnoa.com Email: aurora@artsnoa.com
+Artsnoa.com
+
+Email: aurora@artsnoa.com
