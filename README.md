@@ -29,17 +29,17 @@ curl -o Saibius {your-download-url}
 
 Share a directory:
 ```bash
-./target/release/saibius --file /path/to/directory
+./Saibius --file /path/to/directory
 ```
 
 Share a single file:
 ```bash
-./target/release/saibius --file /path/to/file.txt
+./Saibius --file /path/to/file.txt
 ```
 
 Specify custom port and host:
 ```bash
-./target/release/saibius --file /path/to/directory --port 8080 --host 0.0.0.0
+./Saibius --file /path/to/directory --port 8080 --host 0.0.0.0
 ```
 
 ## Features
@@ -89,23 +89,20 @@ Server also accessible at http://192.168.1.100:3200/
 
 ## Usage Examples
 
-### After cloning the repository:
+### After download binary:
 
 ```bash
-# Build the project
-cargo build --release
-
 # Share your home directory
-./target/release/saibius --file ~/
+./Saibius --file ~/
 
 # Share a specific project
-./target/release/saibius --file ./my-project --port 9000
+./Saibius --file ./my-project --port 9000
 
 # Make files available on your local network
-./target/release/saibius --file ./downloads --host 0.0.0.0 --port 8080
+./Saibius --file ./downloads --host 0.0.0.0 --port 8080
 
 # Share a single large video file
-./target/release/saibius --file ./movie.mp4
+./Saibius --file ./movie.mp4
 ```
 
 ### Integration with curl and wget
@@ -179,15 +176,15 @@ Built with passion for efficient file sharing. Contributions welcome in areas of
 
 ### Downloading Releases
 
-Download pre-built binaries from the [Releases page](https://github.com/mirseo/Saibius/releases):
+Download pre-built binaries from the [Accounts page](https://saibius.com/accounts):
 
-- **Windows**: `Saibius-windows-x86_64.exe`
-- **Linux**: `Saibius-linux-x86_64`
-- **macOS**: `Saibius-macos-x86_64`
+- **Windows**: `Saibius.exe`
+- **Linux**: `Saibius`
+- **macOS**: `Saibius-macos`
 
 Make the binary executable on Unix systems:
 ```bash
-chmod +x Saibius-linux-x86_64  # or Saibius-macos-x86_64
+chmod +x Saibius  # or Saibius-macos
 ```
 
 ## License
