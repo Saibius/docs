@@ -188,6 +188,8 @@ See the LICENSE (EULA) file for full details.
 
 ---
 
-**Saibius** - Because your files deserve to fly. 🚀
+**Saibius** - Because your files deserve to fly. 🚀  
+
+P.s For zero-copy, simultaneous download, and idm tests, please refer to the ./test folder.  
 
 <a href="https://www.producthunt.com/products/saibius?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-saibius" target="_blank" rel="noopener noreferrer"><img alt="Saibius - Lightning-fast file sharing. Simple, secure, and unlimited. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1055278&amp;theme=light&amp;t=1766996889767"></a>
