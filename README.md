@@ -173,6 +173,7 @@ Download binaries from the [Accounts page](https://saibius.com/accounts):
 - **Windows**: `Saibius.exe`
 - **Linux**: `Saibius`
 - **macOS**: `Saibius-macos`
+- **Android(Termux)** : `comming (v1.0.0.11 or later)`
 
 Make the binary executable on Unix systems:
 ```bash
