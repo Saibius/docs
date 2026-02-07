@@ -164,7 +164,9 @@ Saibius implements robust error handling:
 - Path traversal protection
 - Detailed error messages with suggested solutions
 
-### Downloading Releases
+### Downloading Releases  
+
+Quick Update! Our next minor version (v1.0.0.11) will support the --share method for sharing, just like the --file method. Don’t worry, we’re keeping the original --file method too—this is just a little update to make things more convenient for you!  
 
 Download binaries from the [Accounts page](https://saibius.com/accounts):
 
