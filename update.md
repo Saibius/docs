@@ -2,5 +2,7 @@
 
 v1.0.0.11(comming)  
 TL;DR : Quick Update! Our next minor version (v1.0.0.11) will support the --share method for sharing, just like the --file method. Don’t worry, we’re keeping the original --file method too—this is just a little update to make things more convenient for you!  
-- Patch to add support for share method to file method via alias
-- In development (may or may not be included in the future)  
+- Patch to add support for share method to file method via alias  
+- The code signing certificate has been changed. (Existing certificate > New: Artsnoa CA Apps)
+- Support Android (Termux) Version  
+
