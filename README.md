@@ -82,7 +82,7 @@ Server also accessible at http://192.168.1.100:3200/
 
 | Option | Short | Description | Default |
 |--------|-------|-------------|---------|
-| `--file` | `-f` | Path to file or directory to share | **Required** |
+| `--file` /  `--share` | `-f` | Path to file or directory to share | **Required** |
 | `--port` | `-p` | Port to bind to | 3200 |
 | `--host` | `-h` | Host address to bind to | 127.0.0.1 |
 
@@ -165,8 +165,6 @@ Saibius implements robust error handling:
 - Detailed error messages with suggested solutions
 
 ### Downloading Releases  
-
-Quick Update! Our next minor version (v1.0.0.11) will support the --share method for sharing, just like the --file method. Don’t worry, we’re keeping the original --file method too—this is just a little update to make things more convenient for you!  
 
 Download binaries from the [Accounts page](https://saibius.com/accounts):
 
