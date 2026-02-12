@@ -29,17 +29,17 @@ curl -o Saibius {your-download-url}
 
 Share a directory:
 ```bash
-./Saibius --file /path/to/directory
+./Saibius --share /path/to/directory
 ```
 
 Share a single file:
 ```bash
-./Saibius --file /path/to/file.txt
+./Saibius --share /path/to/file.txt
 ```
 
 Specify custom port and host:
 ```bash
-./Saibius --file /path/to/directory --port 8080 --host 0.0.0.0
+./Saibius --share /path/to/directory --port 8080 --host 0.0.0.0
 ```
 
 ## Features
@@ -92,16 +92,16 @@ Server also accessible at http://192.168.1.100:3200/
 
 ```bash
 # Share your home directory
-./Saibius --file ~/
+./Saibius --share ~/
 
 # Share a specific project
-./Saibius --file ./my-project --port 9000
+./Saibius --share ./my-project --port 9000
 
 # Make files available on your local network
-./Saibius --file ./downloads --host 0.0.0.0 --port 8080
+./Saibius --share ./downloads --host 0.0.0.0 --port 8080
 
 # Share a single large video file
-./Saibius --file ./movie.mp4
+./Saibius --share ./movie.mp4
 ```
 
 ### Integration with curl and wget
