@@ -4,9 +4,9 @@
 
 A blazing-fast, lightweight web server designed for instant file and directory sharing. Built with Rust's performance-first architecture, Saibius serves files of any size over HTTP without authentication, making it perfect for server management and rapid data transfer.
 
-https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed
+https://github.com/user-attachments/assets/f413ad10-67d7-4d6b-b981-d45dbcfb6eed  
 
-
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2f6d4.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 ## Why Saibius?
 
 - **Zero-Copy Performance**: Leverages `sendfile` system call for memory-efficient file transfers
